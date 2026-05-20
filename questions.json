@@ -15,11 +15,11 @@
       "word": "aestivation",
       "definition": "Dormancy during heat or drought; also the arrangement of petals in a bud.",
       "example": "The desert snail survived the summer by sealing itself into aestivation.",
-      "wordDecoys": ["estivation", "aestheticism", "vernalization"],
+      "wordDecoys": ["hibernation", "aestheticism", "vernalization"],
       "definitionDecoys": [
         "The doctrine that aesthetic value is the highest standard of judgment.",
         "The induction of flowering by prolonged exposure to winter cold.",
-        "The migration of animals toward colder latitudes during summer."
+        "Dormancy or inactivity during winter cold."
       ]
     },
     {
@@ -70,11 +70,11 @@
       "word": "carious",
       "definition": "Decayed, especially of bone or teeth.",
       "example": "The scan showed a carious molar that had been quietly worsening for years.",
-      "wordDecoys": ["carnous", "ceraceous", "cariosus"],
+      "wordDecoys": ["carnous", "ceraceous", "callous"],
       "definitionDecoys": [
         "Fleshy in texture, color, or anatomical character.",
         "Waxy in appearance or consistency.",
-        "Hornlike, keratinous, or resembling a callus."
+        "Hardened, thickened, or emotionally insensitive."
       ]
     },
     {
@@ -334,11 +334,11 @@
       "word": "casuistic",
       "definition": "Using subtle case-based reasoning, often with a hint of speciousness.",
       "example": "Her casuistic defense made the exception seem larger than the rule.",
-      "wordDecoys": ["casuistical", "caustic", "causal"],
+      "wordDecoys": ["eristic", "caustic", "causal"],
       "definitionDecoys": [
         "Sarcastically biting or chemically corrosive.",
         "Relating straightforwardly to cause and effect.",
-        "Random, accidental, or dependent on chance occurrence."
+        "Given to disputation for its own sake."
       ]
     },
     {
@@ -389,11 +389,11 @@
       "word": "irenic",
       "definition": "Aiming at peace, conciliation, or the reduction of controversy.",
       "example": "The editor adopted an irenic tone without conceding the central point.",
-      "wordDecoys": ["eristic", "ironic", "irenical"],
+      "wordDecoys": ["eristic", "ironic", "eremitic"],
       "definitionDecoys": [
         "Given to disputation for its own sake.",
         "Marked by a meaning contrary to literal expression.",
-        "Pertaining to the goddess Irene rather than to peacemaking."
+        "Relating to solitary hermit life."
       ]
     },
     {
@@ -422,9 +422,9 @@
       "word": "incommensurability",
       "definition": "The condition of lacking a common measure or shared standard of comparison.",
       "example": "The debate turned on the incommensurability of sacred value and market price.",
-      "wordDecoys": ["incommensurateness", "incomparability", "incommunicability"],
+      "wordDecoys": ["inconsiderateness", "incomparability", "incommunicability"],
       "definitionDecoys": [
-        "Mere unsuitability of size, proportion, or degree.",
+        "Lack of regard for other people's needs or feelings.",
         "The state of being too unlike to compare at all.",
         "The inability to be communicated or expressed."
       ]
@@ -624,8 +624,8 @@
       "word": "ataraxia",
       "definition": "Serene imperturbability; freedom from mental disturbance.",
       "example": "The Stoic lecture promised ataraxia but delivered a reading list.",
-      "wordDecoys": ["ataxia", "anorexia", "ataraxy"],
-      "definitionDecoys": ["Loss of bodily coordination.", "Loss or severe restriction of appetite.", "A taxonomic disorder in naming rather than a state of calm."]
+      "wordDecoys": ["ataxia", "anorexia", "aphasia"],
+      "definitionDecoys": ["Loss of bodily coordination.", "Loss or severe restriction of appetite.", "Impairment or loss of language ability."]
     },
     {
       "word": "autarky",
@@ -645,8 +645,8 @@
       "word": "caesura",
       "definition": "A pause or break within a line of verse or musical phrase.",
       "example": "The caesura gives the line a moment to breathe before its reversal.",
-      "wordDecoys": ["cesura", "censure", "scansion"],
-      "definitionDecoys": ["Formal blame or condemnation.", "Analysis of poetic meter.", "A surgical cutting, especially by incision."]
+      "wordDecoys": ["catalexis", "censure", "scansion"],
+      "definitionDecoys": ["The absence of a syllable from the end of a metrical line.", "Formal blame or condemnation.", "Analysis of poetic meter."]
     },
     {
       "word": "cenobitic",
@@ -715,8 +715,8 @@
       "word": "desuetude",
       "definition": "A state of disuse or obsolescence.",
       "example": "The oath remained on paper but had fallen into desuetude.",
-      "wordDecoys": ["disquietude", "desuetion", "disuse"],
-      "definitionDecoys": ["Anxiety, uneasiness, or restless disturbance.", "The act of abandoning a habit rather than the state after it.", "Simple nonuse without the legal or historical shade of obsolescence."]
+      "wordDecoys": ["disquietude", "dissidence", "disseisin"],
+      "definitionDecoys": ["Anxiety, uneasiness, or restless disturbance.", "Disagreement with official policy or authority.", "Wrongful dispossession of real property."]
     },
     {
       "word": "diaphanous",
@@ -729,8 +729,8 @@
       "word": "discalced",
       "definition": "Barefoot or wearing sandals, especially as a religious discipline.",
       "example": "The discalced friars crossed the courtyard in complete silence.",
-      "wordDecoys": ["discalceate", "discal", "calcified"],
-      "definitionDecoys": ["To remove shoes from someone.", "Pertaining to a disk.", "Hardened by deposits of calcium salts."]
+      "wordDecoys": ["calceiform", "discal", "calcified"],
+      "definitionDecoys": ["Shoe-shaped or slipper-like.", "Pertaining to a disk.", "Hardened by deposits of calcium salts."]
     },
     {
       "word": "eidetic",
@@ -743,8 +743,8 @@
       "word": "encomium",
       "definition": "A formal expression of high praise.",
       "example": "The obituary was an encomium, not an assessment.",
-      "wordDecoys": ["eirenicon", "encomiast", "encomion"],
-      "definitionDecoys": ["A proposal or statement meant to make peace.", "A person who delivers praise.", "A festive procession or revel rather than the praise itself."]
+      "wordDecoys": ["eirenicon", "epicedium", "epinicion"],
+      "definitionDecoys": ["A proposal or statement meant to make peace.", "A funeral poem or oration.", "A victory ode."]
     },
     {
       "word": "epigone",
@@ -771,15 +771,15 @@
       "word": "exiguous",
       "definition": "Very small, scanty, or meager.",
       "example": "The archive yielded only exiguous evidence for the claim.",
-      "wordDecoys": ["exigent", "exogamous", "exiguousness"],
-      "definitionDecoys": ["Urgent, pressing, or demanding immediate action.", "Marrying outside a group or clan.", "The abstract quality of smallness rather than the adjective."]
+      "wordDecoys": ["exigent", "exogamous", "exigency"],
+      "definitionDecoys": ["Urgent, pressing, or demanding immediate action.", "Marrying outside a group or clan.", "An urgent demand, need, or pressing circumstance."]
     },
     {
       "word": "farraginous",
       "definition": "Made up of a confused mixture; miscellaneous and jumbled.",
       "example": "The syllabus was farraginous but oddly exhilarating.",
-      "wordDecoys": ["farinaceous", "farrago", "fuliginous"],
-      "definitionDecoys": ["Starchy or mealy in texture.", "A confused mixture or medley itself.", "Sooty, dusky, or smoke-colored."]
+      "wordDecoys": ["farinaceous", "ferruginous", "fuliginous"],
+      "definitionDecoys": ["Starchy or mealy in texture.", "Rust-colored or containing iron.", "Sooty, dusky, or smoke-colored."]
     },
     {
       "word": "fulgurate",
@@ -848,8 +848,8 @@
       "word": "incunabulum",
       "definition": "An early printed book, especially one printed before 1501.",
       "example": "The library kept the incunabulum in a climate-controlled case.",
-      "wordDecoys": ["incunabula", "ciborium", "cuniculate"],
-      "definitionDecoys": ["The plural form for early printed books.", "A covered vessel or canopy in church use.", "Pierced with tunnels or burrows."]
+      "wordDecoys": ["incubus", "ciborium", "cuniculate"],
+      "definitionDecoys": ["A nightmare spirit or oppressive burden.", "A covered vessel or canopy in church use.", "Pierced with tunnels or burrows."]
     },
     {
       "word": "inveterate",
@@ -876,8 +876,8 @@
       "word": "lacuna",
       "definition": "A gap, missing portion, or blank space in a text or record.",
       "example": "The manuscript's lacuna falls exactly where the motive would be explained.",
-      "wordDecoys": ["laguna", "lacunae", "lacustrine"],
-      "definitionDecoys": ["A lagoon or shallow body of water.", "The plural form of gaps or missing portions.", "Pertaining to lakes."]
+      "wordDecoys": ["laguna", "lagena", "lacustrine"],
+      "definitionDecoys": ["A lagoon or shallow body of water.", "A flask-shaped vessel or anatomical structure.", "Pertaining to lakes."]
     },
     {
       "word": "liminal",
@@ -946,29 +946,29 @@
       "word": "numinous",
       "definition": "Suggesting divine presence, sacred awe, or spiritual mystery.",
       "example": "The ruined chapel retained a numinous silence.",
-      "wordDecoys": ["noumenal", "luminous", "numinousness"],
-      "definitionDecoys": ["Pertaining to things as they are in themselves.", "Giving off light or intellectually clear.", "The abstract quality of sacred awe rather than the adjective."]
+      "wordDecoys": ["noumenal", "luminous", "ominous"],
+      "definitionDecoys": ["Pertaining to things as they are in themselves.", "Giving off light or intellectually clear.", "Threatening or suggestive of coming harm."]
     },
     {
       "word": "obdurate",
       "definition": "Stubbornly resistant to persuasion or moral softening.",
       "example": "The committee remained obdurate after every objection was answered.",
-      "wordDecoys": ["obdormition", "obduracy", "obtrusive"],
-      "definitionDecoys": ["Numbness caused by pressure on a nerve.", "The state or quality of stubborn resistance.", "Noticeably and annoyingly prominent."]
+      "wordDecoys": ["obdormition", "obstreperous", "obtrusive"],
+      "definitionDecoys": ["Numbness caused by pressure on a nerve.", "Noisily unruly or resistant to control.", "Noticeably and annoyingly prominent."]
     },
     {
       "word": "obsequious",
       "definition": "Servilely attentive or excessively eager to please.",
       "example": "His obsequious memo praised even the typo in the director's plan.",
-      "wordDecoys": ["obsequial", "sequacious", "obsequy"],
-      "definitionDecoys": ["Pertaining to funeral rites.", "Overly ready to follow another's lead.", "A funeral ceremony or rite."]
+      "wordDecoys": ["obsequial", "sequacious", "officious"],
+      "definitionDecoys": ["Pertaining to funeral rites.", "Overly ready to follow another's lead.", "Intrusively eager to offer unwanted help or advice."]
     },
     {
       "word": "palimpsest",
       "definition": "A reused manuscript or surface bearing traces of earlier writing.",
       "example": "The city is a palimpsest of walls, tramlines, and vanished borders.",
-      "wordDecoys": ["palindrome", "palinode", "palimpsestic"],
-      "definitionDecoys": ["A word or phrase reading the same backward and forward.", "A poem retracting an earlier statement.", "Having the quality of layered erasure and rewriting."]
+      "wordDecoys": ["palindrome", "palinode", "paludal"],
+      "definitionDecoys": ["A word or phrase reading the same backward and forward.", "A poem retracting an earlier statement.", "Pertaining to marshes or swamps."]
     },
     {
       "word": "panegyric",
@@ -981,15 +981,15 @@
       "word": "parataxis",
       "definition": "The placing of clauses or phrases side by side without subordination.",
       "example": "The prose relies on parataxis: he came, he saw, he left.",
-      "wordDecoys": ["hypotaxis", "paratactics", "parallax"],
-      "definitionDecoys": ["Syntactic subordination of clauses.", "The military arrangement of troops rather than grammar.", "Apparent displacement caused by a change in viewpoint."]
+      "wordDecoys": ["hypotaxis", "phalanx", "parallax"],
+      "definitionDecoys": ["Syntactic subordination of clauses.", "A compact body of troops or a finger bone.", "Apparent displacement caused by a change in viewpoint."]
     },
     {
       "word": "parergon",
       "definition": "A secondary or supplementary work, matter, or ornament beside the main work.",
       "example": "The frame becomes a parergon that changes how the painting signifies.",
-      "wordDecoys": ["ergon", "parerga", "paregoric"],
-      "definitionDecoys": ["The main work or deed itself.", "The plural of secondary or supplementary works.", "A camphorated tincture of opium used medicinally."]
+      "wordDecoys": ["ergon", "parhelion", "paregoric"],
+      "definitionDecoys": ["The main work or deed itself.", "A bright mock sun caused by atmospheric ice crystals.", "A camphorated tincture of opium used medicinally."]
     },
     {
       "word": "periphrasis",
@@ -1009,8 +1009,8 @@
       "word": "phatic",
       "definition": "Serving social contact rather than conveying substantial information.",
       "example": "The elevator's phatic weather talk did its small civic work.",
-      "wordDecoys": ["phasic", "emphatic", "phaticism"],
-      "definitionDecoys": ["Occurring in phases.", "Forceful or strongly expressive.", "A style of speech made entirely of social formulas."]
+      "wordDecoys": ["phasic", "emphatic", "aphasic"],
+      "definitionDecoys": ["Occurring in phases.", "Forceful or strongly expressive.", "Affected by impaired language comprehension or production."]
     },
     {
       "word": "piacular",
@@ -1114,8 +1114,8 @@
       "word": "soteriology",
       "definition": "The doctrine or study of salvation.",
       "example": "The dispute over grace was ultimately a dispute in soteriology.",
-      "wordDecoys": ["soteria", "eschatology", "soteriography"],
-      "definitionDecoys": ["Deliverance or safety itself.", "The study of final things.", "Writing that narrates rescues rather than doctrine."]
+      "wordDecoys": ["sophistry", "eschatology", "soteriography"],
+      "definitionDecoys": ["Specious or deceptive reasoning.", "The study of final things.", "Writing that narrates rescues rather than doctrine."]
     },
     {
       "word": "sprezzatura",
@@ -1135,8 +1135,8 @@
       "word": "supererogatory",
       "definition": "Beyond what duty or obligation requires.",
       "example": "The apology was required; the handwritten notes were supererogatory.",
-      "wordDecoys": ["supererogative", "supererogate", "supernumerary"],
-      "definitionDecoys": ["An imagined extra privilege rather than an act beyond duty.", "To perform more than duty requires.", "Additional to the normal number or staff."]
+      "wordDecoys": ["derogatory", "prerogative", "supernumerary"],
+      "definitionDecoys": ["Disparaging, belittling, or expressing a low opinion.", "A special right, privilege, or power.", "Additional to the normal number or staff."]
     },
     {
       "word": "synecdoche",
@@ -1156,8 +1156,8 @@
       "word": "telos",
       "definition": "An end, purpose, or ultimate aim.",
       "example": "The argument assumes a telos for education beyond employability.",
-      "wordDecoys": ["logos", "topos", "telic"],
-      "definitionDecoys": ["Reason, word, discourse, or rational principle.", "A conventional theme or rhetorical commonplace.", "Directed toward an end or purpose."]
+      "wordDecoys": ["logos", "topos", "tholos"],
+      "definitionDecoys": ["Reason, word, discourse, or rational principle.", "A conventional theme or rhetorical commonplace.", "A round classical building, tomb, or vaulted structure."]
     },
     {
       "word": "theodicy",
@@ -1170,8 +1170,8 @@
       "word": "threnody",
       "definition": "A song, poem, or speech of lamentation for the dead.",
       "example": "The quartet closes as a threnody rather than a triumph.",
-      "wordDecoys": ["threnos", "rhapsody", "epithalamium"],
-      "definitionDecoys": ["A lament itself, especially in Greek usage.", "An ecstatic or episodic composition.", "A poem or song celebrating a marriage."]
+      "wordDecoys": ["eclogue", "rhapsody", "epithalamium"],
+      "definitionDecoys": ["A short pastoral poem, often in dialogue.", "An ecstatic or episodic composition.", "A poem or song celebrating a marriage."]
     },
     {
       "word": "traduce",
@@ -1191,15 +1191,15 @@
       "word": "vatic",
       "definition": "Prophetic, inspired, or oracular.",
       "example": "The critic's vatic tone made a sales forecast sound like apocalypse.",
-      "wordDecoys": ["vatical", "vesic", "votive"],
-      "definitionDecoys": ["Pertaining to prophecy, but less commonly used.", "Pertaining to the bladder.", "Offered or dedicated in fulfillment of a vow."]
+      "wordDecoys": ["viatic", "vesic", "votive"],
+      "definitionDecoys": ["Relating to provisions for a journey.", "Pertaining to the bladder.", "Offered or dedicated in fulfillment of a vow."]
     },
     {
       "word": "velleity",
       "definition": "A weak wish or inclination too slight to lead to action.",
       "example": "His plan to learn Greek remained a velleity with a bookmark.",
-      "wordDecoys": ["volition", "velleitarian", "venality"],
-      "definitionDecoys": ["The act or power of willing.", "Someone governed by weak wishes rather than commitments.", "Readiness to be bought or corrupted."]
+      "wordDecoys": ["volition", "volubility", "venality"],
+      "definitionDecoys": ["The act or power of willing.", "Fluent, ready, or excessive talkativeness.", "Readiness to be bought or corrupted."]
     },
     {
       "word": "veridical",
@@ -1219,8 +1219,8 @@
       "word": "vicissitude",
       "definition": "A change, alternation, or shifting circumstance, often of fortune.",
       "example": "The archive records every vicissitude of the family's reputation.",
-      "wordDecoys": ["vicinity", "vicariate", "vicissitudinous"],
-      "definitionDecoys": ["Nearness in place.", "The office or jurisdiction of a vicar.", "Marked by change or alternation."]
+      "wordDecoys": ["vicinity", "vicariate", "viscidity"],
+      "definitionDecoys": ["Nearness in place.", "The office or jurisdiction of a vicar.", "Stickiness or glutinous consistency."]
     },
     {
       "word": "vituperative",
@@ -1261,8 +1261,8 @@
       "word": "adiaphora",
       "definition": "Matters regarded as morally indifferent or neither commanded nor forbidden.",
       "example": "The reformers disputed which ceremonies counted as adiaphora.",
-      "wordDecoys": ["adiaphoron", "diaphora", "anaphora"],
-      "definitionDecoys": ["A single morally indifferent matter.", "A difference, distinction, or rhetorical repetition.", "Repetition of a word or phrase at the beginning of successive clauses."]
+      "wordDecoys": ["antinomianism", "diaphora", "anaphora"],
+      "definitionDecoys": ["The belief that moral law is not binding on the redeemed.", "A difference, distinction, or rhetorical repetition.", "Repetition of a word or phrase at the beginning of successive clauses."]
     },
     {
       "word": "epiclesis",
@@ -1275,8 +1275,8 @@
       "word": "troglodytic",
       "definition": "Cave-dwelling; also reclusive, primitive, or deliberately uncultivated.",
       "example": "His troglodytic office habits survived the open-plan renovation.",
-      "wordDecoys": ["troglofaunal", "trochaic", "troglodyte"],
-      "definitionDecoys": ["Pertaining to animals that live in caves.", "Pertaining to a metrical foot with a stressed syllable followed by an unstressed one.", "A cave-dweller or brutishly reclusive person."]
+      "wordDecoys": ["troglofaunal", "trochaic", "truculent"],
+      "definitionDecoys": ["Pertaining to animals that live in caves.", "Pertaining to a metrical foot with a stressed syllable followed by an unstressed one.", "Fiercely aggressive or eager to argue."]
     },
     {
       "word": "cataphatic",
@@ -1289,8 +1289,8 @@
       "word": "thaumaturgic",
       "definition": "Pertaining to miracle-working or the performance of wonders.",
       "example": "The saint's thaumaturgic reputation outgrew the cautious early sources.",
-      "wordDecoys": ["theurgic", "thaumaturgy", "tautegorical"],
-      "definitionDecoys": ["Pertaining to rites intended to invoke divine action.", "Miracle-working itself, not the adjective.", "Explaining myth as saying the same thing directly rather than allegorically."]
+      "wordDecoys": ["theurgic", "teratogenic", "tautegorical"],
+      "definitionDecoys": ["Pertaining to rites intended to invoke divine action.", "Causing developmental malformations.", "Explaining myth as saying the same thing directly rather than allegorically."]
     },
     {
       "word": "perichoresis",
@@ -1303,8 +1303,8 @@
       "word": "cratylism",
       "definition": "The belief that names have a natural or necessary relation to the things named.",
       "example": "His cratylism made etymology do more metaphysical work than it could bear.",
-      "wordDecoys": ["cryptonymy", "nominalism", "cratylic"],
-      "definitionDecoys": ["The use or study of hidden names.", "The doctrine that universals or names lack independent reality.", "Pertaining to a natural relation between names and things."]
+      "wordDecoys": ["cryptonymy", "nominalism", "essentialism"],
+      "definitionDecoys": ["The use or study of hidden names.", "The doctrine that universals or names lack independent reality.", "The doctrine that things have real underlying essences."]
     },
     {
       "word": "eidology",
@@ -1317,8 +1317,8 @@
       "word": "homiletic",
       "definition": "Pertaining to sermons, preaching, or moral exhortation.",
       "example": "The novel's last chapter becomes unexpectedly homiletic.",
-      "wordDecoys": ["hermeneutic", "homiletics", "homiletical"],
-      "definitionDecoys": ["Pertaining to interpretation, especially of texts.", "The art or study of preaching.", "The adjectival variant, not a distinct meaning."]
+      "wordDecoys": ["hermeneutic", "kerygmatic", "catechetical"],
+      "definitionDecoys": ["Pertaining to interpretation, especially of texts.", "Pertaining to proclamation, especially of the gospel.", "Pertaining to instruction by question and answer."]
     },
     {
       "word": "cenotaph",
@@ -1338,8 +1338,8 @@
       "word": "ataraxy",
       "definition": "Calmness of mind; freedom from disturbance.",
       "example": "The philosopher's ataraxy lasted until the printer jammed.",
-      "wordDecoys": ["ataxy", "ataraxia", "anarchy"],
-      "definitionDecoys": ["Disorder or lack of coordination.", "Serene imperturbability, especially in ancient philosophy.", "Absence of government or governing order."]
+      "wordDecoys": ["ataxy", "apathy", "anarchy"],
+      "definitionDecoys": ["Disorder or lack of coordination.", "Lack of feeling, interest, or concern.", "Absence of government or governing order."]
     },
     {
       "word": "theophany",
@@ -1485,8 +1485,8 @@
       "word": "chiliastic",
       "definition": "Millenarian; expecting a thousand-year reign or transformative age.",
       "example": "The movement's chiliastic hope made compromise seem like betrayal.",
-      "wordDecoys": ["chthonic", "chiliasm", "chilopod"],
-      "definitionDecoys": ["Pertaining to the underworld or powers beneath the earth.", "Belief in a coming millennium.", "A many-legged arthropod such as a centipede."]
+      "wordDecoys": ["chthonic", "choleric", "chilopod"],
+      "definitionDecoys": ["Pertaining to the underworld or powers beneath the earth.", "Irritable, hot-tempered, or easily angered.", "A many-legged arthropod such as a centipede."]
     },
     {
       "word": "hierurgy",
@@ -1499,8 +1499,8 @@
       "word": "oneiric",
       "definition": "Dreamlike or pertaining to dreams.",
       "example": "The film's oneiric logic made chronology irrelevant.",
-      "wordDecoys": ["oneiromantic", "onerous", "oniric"],
-      "definitionDecoys": ["Pertaining to divination by dreams.", "Burdensome or oppressive.", "A variant spelling rather than a distinct term."]
+      "wordDecoys": ["oneiromantic", "onerous", "noetic"],
+      "definitionDecoys": ["Pertaining to divination by dreams.", "Burdensome or oppressive.", "Pertaining to intellect or direct mental apprehension."]
     },
     {
       "word": "thaumaturgy",
@@ -1534,8 +1534,8 @@
       "word": "autotelic",
       "definition": "Having its end or purpose in itself.",
       "example": "For her, chess was autotelic rather than instrumental.",
-      "wordDecoys": ["autotelism", "autochthonous", "teleological"],
-      "definitionDecoys": ["The doctrine or condition of having purpose in itself.", "Indigenous or originating where found.", "Explained by reference to ends, purposes, or final causes."]
+      "wordDecoys": ["autarkic", "autochthonous", "teleological"],
+      "definitionDecoys": ["Self-sufficient or economically independent.", "Indigenous or originating where found.", "Explained by reference to ends, purposes, or final causes."]
     }
   ]
 }

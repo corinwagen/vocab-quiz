@@ -129,7 +129,8 @@ h1 {
 }
 
 .start-button,
-.share-button {
+.share-button,
+.next-button {
   margin-top: 38px;
   border: 0;
   border-radius: 4px;
@@ -150,6 +151,7 @@ h1 {
 
 .start-button:focus-visible,
 .share-button:focus-visible,
+.next-button:focus-visible,
 .option:focus-visible,
 textarea:focus-visible {
   outline: 3px solid rgba(15, 118, 110, 0.35);
@@ -288,6 +290,11 @@ textarea:focus-visible {
   font-weight: 500;
 }
 
+.next-button {
+  margin-top: 18px;
+  min-width: 112px;
+}
+
 .saved-note {
   margin: 18px 0 0;
   color: var(--muted);
@@ -411,6 +418,12 @@ textarea {
   .key {
     width: 28px;
     height: 28px;
+  }
+
+  .start-button,
+  .next-button,
+  .share-button {
+    width: 100%;
   }
 
   .share-box {

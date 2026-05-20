@@ -1,6 +1,6 @@
 const QUIZ_SIZE = 12;
 const OPTION_KEYS = ["A", "B", "C", "D"];
-const STORAGE_PREFIX = "vocab-quiz-result";
+const STORAGE_PREFIX = "vocab-quiz-result-v2";
 
 const state = {
   mode: "loading",
@@ -106,12 +106,14 @@ function renderQuestion() {
           .join("")}
       </div>
       <div class="feedback" id="feedback" aria-live="polite"></div>
+      <button class="next-button" type="button" id="nextButton" hidden>Next</button>
     </section>
   `;
 
   document.querySelectorAll(".option").forEach((button) => {
     button.addEventListener("click", () => selectAnswer(Number(button.dataset.index)));
   });
+  document.querySelector("#nextButton").addEventListener("click", advance);
   updateTimer();
 }
 
@@ -147,9 +149,12 @@ function selectAnswer(optionIndex) {
   feedback.innerHTML = `
     <strong>${isCorrect ? "Correct." : "Wrong."}</strong> ${escapeHtml(question.note)}
     <span class="example">Example: ${escapeHtml(question.example)}</span>
-    <span class="continue">Press Space or Enter.</span>
+    <span class="continue">Continue when ready.</span>
   `;
 
+  const nextButton = document.querySelector("#nextButton");
+  nextButton.hidden = false;
+  nextButton.textContent = state.index + 1 >= state.questions.length ? "Results" : "Next";
   document.querySelector(".score").textContent = `Score ${state.score}/${state.questions.length}`;
 }
 
