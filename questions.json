@@ -56,14 +56,14 @@
       ]
     },
     {
-      "word": "argot",
-      "definition": "The specialized slang or secret vocabulary of a group or trade.",
-      "example": "The lab's argot made ordinary scheduling sound like encrypted fieldwork.",
-      "wordDecoys": ["argosy", "argute", "ergot"],
+      "word": "cacoethes",
+      "definition": "An irresistible urge or mania, especially for doing something inadvisable.",
+      "example": "His cacoethes for footnotes made even the acknowledgments combative.",
+      "wordDecoys": ["cachexia", "catachresis", "caecum"],
       "definitionDecoys": [
-        "A rich fleet of merchant ships or a lavish abundance.",
-        "Sharp, shrewd, and subtle in argument.",
-        "A fungal disease of grains, historically linked to poisoning."
+        "A wasting condition marked by severe bodily weakness.",
+        "A strained, mixed, or improper use of a word or metaphor.",
+        "A pouch at the beginning of the large intestine."
       ]
     },
     {
@@ -79,13 +79,13 @@
     },
     {
       "word": "kekotopia",
-      "definition": "A society ordered so badly that its faults are uglier than ordinary dystopia.",
+      "definition": "A bad imagined society or dystopian commonwealth; a cacotopia.",
       "example": "His novel imagines a kekotopia where every reform perfects a different cruelty.",
-      "wordDecoys": ["cacotopia", "kakistocracy", "eutopia"],
+      "wordDecoys": ["kallipolis", "kakistocracy", "eutopia"],
       "definitionDecoys": [
         "A state ruled by its least qualified or most unscrupulous citizens.",
-        "A bad imaginary place; a dystopian commonwealth.",
-        "A genuinely good place, not merely an impossible no-place."
+        "A just and beautiful city, especially as an ideal political model.",
+        "A genuinely good place, as opposed to a merely impossible no-place."
       ]
     },
     {
@@ -873,18 +873,18 @@
       "definitionDecoys": ["Movement or motion.", "Evacuation or emptying in a medical sense.", "Proclamation, especially of the gospel."]
     },
     {
-      "word": "lacuna",
-      "definition": "A gap, missing portion, or blank space in a text or record.",
-      "example": "The manuscript's lacuna falls exactly where the motive would be explained.",
-      "wordDecoys": ["laguna", "lagena", "lacustrine"],
-      "definitionDecoys": ["A lagoon or shallow body of water.", "A flask-shaped vessel or anatomical structure.", "Pertaining to lakes."]
+      "word": "hiant",
+      "definition": "Gaping, open, or standing wide apart.",
+      "example": "The fossil's hiant jaws made the tiny skull look theatrical.",
+      "wordDecoys": ["hyaline", "hircine", "hiemal"],
+      "definitionDecoys": ["Glassy, translucent, or clear like crystal.", "Goat-like, especially in smell.", "Pertaining to winter."]
     },
     {
-      "word": "liminal",
-      "definition": "Pertaining to a threshold, boundary, or transitional state.",
-      "example": "The airport at dawn felt liminal, neither departure nor arrival.",
-      "wordDecoys": ["limicolous", "limpid", "limitary"],
-      "definitionDecoys": ["Living in mud or marshy places.", "Clear, transparent, or easily understood.", "Serving as a boundary or limit."]
+      "word": "limicolous",
+      "definition": "Living in mud, marshes, or muddy shore environments.",
+      "example": "The limicolous beetle vanished whenever the salt flat dried hard.",
+      "wordDecoys": ["liminal", "limnetic", "limacine"],
+      "definitionDecoys": ["Pertaining to a threshold or transitional state.", "Pertaining to open freshwater, especially lakes.", "Slug-like or pertaining to slugs."]
     },
     {
       "word": "lucubration",
@@ -939,8 +939,8 @@
       "word": "nescience",
       "definition": "Lack of knowledge; ignorance.",
       "example": "The witness's nescience was genuine, though inconvenient.",
-      "wordDecoys": ["prescience", "nescientism", "nescafe"],
-      "definitionDecoys": ["Foreknowledge of events.", "A doctrine privileging ignorance over inquiry.", "A brand-like coffee name, not an abstract noun."]
+      "wordDecoys": ["prescience", "omniscience", "conscience"],
+      "definitionDecoys": ["Foreknowledge of events.", "Universal or infinite knowledge.", "A moral sense of right and wrong."]
     },
     {
       "word": "numinous",
@@ -957,11 +957,11 @@
       "definitionDecoys": ["Numbness caused by pressure on a nerve.", "Noisily unruly or resistant to control.", "Noticeably and annoyingly prominent."]
     },
     {
-      "word": "obsequious",
-      "definition": "Servilely attentive or excessively eager to please.",
-      "example": "His obsequious memo praised even the typo in the director's plan.",
-      "wordDecoys": ["obsequial", "sequacious", "officious"],
-      "definitionDecoys": ["Pertaining to funeral rites.", "Overly ready to follow another's lead.", "Intrusively eager to offer unwanted help or advice."]
+      "word": "sordes",
+      "definition": "Filth or foul matter, especially deposits on the body or teeth.",
+      "example": "The physician noted sordes on the lips before the fever broke.",
+      "wordDecoys": ["sorites", "sortes", "sordino"],
+      "definitionDecoys": ["A chain of small logical steps leading to a paradox or heap problem.", "Lots drawn for divination or decision.", "A mute or dampening device used with a musical instrument."]
     },
     {
       "word": "palimpsest",
@@ -1232,9 +1232,9 @@
     {
       "word": "zeugma",
       "definition": "A figure in which one word applies to two others in different senses.",
-      "example": "She broke his car and his heart is zeugma with a dented bumper.",
-      "wordDecoys": ["syllepsis", "zuegma", "zodiac"],
-      "definitionDecoys": ["A related construction where agreement follows sense rather than grammar.", "A misspelling rather than a separate figure.", "A belt of constellations along the apparent path of the sun."]
+      "example": "She broke his car and his heart with one verb and one dented bumper.",
+      "wordDecoys": ["zeugopodium", "zooecium", "zodiac"],
+      "definitionDecoys": ["The middle segment of a vertebrate limb, such as forearm or lower leg.", "The individual chamber occupied by a bryozoan zooid.", "A belt of constellations along the apparent path of the sun."]
     },
     {
       "word": "eidolon",
@@ -1536,6 +1536,104 @@
       "example": "For her, chess was autotelic rather than instrumental.",
       "wordDecoys": ["autarkic", "autochthonous", "teleological"],
       "definitionDecoys": ["Self-sufficient or economically independent.", "Indigenous or originating where found.", "Explained by reference to ends, purposes, or final causes."]
+    },
+    {
+      "word": "amphibology",
+      "definition": "Syntactic ambiguity that allows a phrase or sentence to be read in two ways.",
+      "example": "The will's amphibology enriched three lawyers before it clarified one bequest.",
+      "wordDecoys": ["amphibrach", "amblyopia", "amphimacer"],
+      "definitionDecoys": ["A metrical foot with an unstressed syllable on each side of a stressed one.", "Dimness of sight not caused by an obvious structural defect of the eye.", "A metrical foot with two stressed syllables around an unstressed one."]
+    },
+    {
+      "word": "aposiopesis",
+      "definition": "A rhetorical breaking off of speech before a sentence is complete.",
+      "example": "Her aposiopesis after 'If you publish that...' was more threatening than the rest of the memo.",
+      "wordDecoys": ["apophasis", "apophony", "apophthegm"],
+      "definitionDecoys": ["Mentioning something by professing not to mention it.", "A vowel alternation indicating grammatical change.", "A terse, pointed saying or maxim."]
+    },
+    {
+      "word": "diaphora",
+      "definition": "Repetition of a word with a shift in meaning or application.",
+      "example": "The slogan 'business is business' depends on diaphora, not mere redundancy.",
+      "wordDecoys": ["anaphora", "epiphora", "diaphoresis"],
+      "definitionDecoys": ["Repetition at the beginning of successive clauses.", "Repetition at the end of successive clauses.", "Sweating, especially when profuse or medically notable."]
+    },
+    {
+      "word": "epizeuxis",
+      "definition": "Immediate repetition of a word or phrase for emphasis.",
+      "example": "The witness's 'No, no, no' was epizeuxis before it was evidence.",
+      "wordDecoys": ["anadiplosis", "epanalepsis", "epexegesis"],
+      "definitionDecoys": ["Repetition of the last word of one clause at the start of the next.", "Repetition after intervening words, especially at the end of a clause.", "An explanatory addition that clarifies a preceding expression."]
+    },
+    {
+      "word": "erotetic",
+      "definition": "Pertaining to questions or to the logic of asking and answering them.",
+      "example": "The dialogue's erotetic structure mattered more than any single reply.",
+      "wordDecoys": ["eristic", "erotic", "erotemic"],
+      "definitionDecoys": ["Given to disputation, especially for victory rather than truth.", "Pertaining to sexual love or desire.", "Pertaining to a question mark or interrogative punctuation."]
+    },
+    {
+      "word": "hypotyposis",
+      "definition": "Vivid description that makes a scene seem present to the mind.",
+      "example": "The indictment used hypotyposis until the ruined warehouse felt visible in court.",
+      "wordDecoys": ["hypostasis", "hypallage", "hypobole"],
+      "definitionDecoys": ["Underlying reality or substance; in theology, a person of the Trinity.", "A transferred epithet applied to a logically unexpected noun.", "Raising and then answering an objection in argument."]
+    },
+    {
+      "word": "incondite",
+      "definition": "Badly put together; crude, unpolished, or lacking orderly form.",
+      "example": "The pamphlet's incondite fury made its one good argument hard to find.",
+      "wordDecoys": ["recondite", "condign", "inconnu"],
+      "definitionDecoys": ["Obscure, abstruse, and difficult for ordinary understanding.", "Deserved, appropriate, especially as punishment.", "An unknown person or thing."]
+    },
+    {
+      "word": "inspissate",
+      "definition": "To thicken, congeal, or make more dense.",
+      "example": "By dusk the sauce had begun to inspissate into something almost architectural.",
+      "wordDecoys": ["insinuate", "inspirit", "insperate"],
+      "definitionDecoys": ["To introduce gradually or artfully into favor or belief.", "To fill with courage, life, or spirit.", "To breathe into or upon, especially in older theological usage."]
+    },
+    {
+      "word": "lustration",
+      "definition": "Ritual purification, especially by ceremonial washing or sacrifice.",
+      "example": "The city's lustration followed the plague with smoke, water, and official relief.",
+      "wordDecoys": ["lucubration", "luctation", "lustring"],
+      "definitionDecoys": ["Laborious study or writing, especially by artificial light.", "A struggle or wrestling contest.", "A glossy silk fabric or finish."]
+    },
+    {
+      "word": "peripeteia",
+      "definition": "A sudden reversal of circumstances or fortune, especially in drama.",
+      "example": "The forged letter supplied the play's peripeteia and ruined three disguises at once.",
+      "wordDecoys": ["pericope", "periphrasis", "periptery"],
+      "definitionDecoys": ["An excerpted passage, especially a section of scripture.", "Circumlocution or roundabout expression.", "A range of columns surrounding a classical building."]
+    },
+    {
+      "word": "psilanthropism",
+      "definition": "The doctrine that Christ was merely human and not divine.",
+      "example": "The council treated psilanthropism as a Christological error, not a mild metaphor.",
+      "wordDecoys": ["monophysitism", "docetism", "anthropopathy"],
+      "definitionDecoys": ["The doctrine that Christ has one nature rather than two.", "The doctrine that Christ's body and suffering only seemed real.", "Attribution of human feelings or passions to a deity."]
+    },
+    {
+      "word": "sphragistic",
+      "definition": "Pertaining to seals, signets, or the study of impressed seals.",
+      "example": "Her sphragistic evidence turned a smudge of wax into a dateable signature.",
+      "wordDecoys": ["sphygmic", "sphagnous", "sphingine"],
+      "definitionDecoys": ["Pertaining to the pulse.", "Pertaining to or resembling sphagnum moss.", "Sphinx-like, enigmatic, or inscrutable."]
+    },
+    {
+      "word": "synaloepha",
+      "definition": "Blending adjacent vowels into one syllable, especially across word boundaries.",
+      "example": "The meter depends on synaloepha where the printed words seem to require another beat.",
+      "wordDecoys": ["synaeresis", "syncope", "synarthrosis"],
+      "definitionDecoys": ["Contraction of two vowels within a word into one syllable.", "Omission of sounds from the middle of a word.", "An immovable joint or union between bones."]
+    },
+    {
+      "word": "tmesis",
+      "definition": "Insertion of a word between the parts of a compound word or fixed phrase.",
+      "example": "The joke's tmesis put an oath squarely inside an otherwise harmless adverb.",
+      "wordDecoys": ["diacope", "thesis", "metathesis"],
+      "definitionDecoys": ["Repetition of a word or phrase after intervening words.", "A proposition advanced for argument or a metrical stress.", "Transposition of sounds or letters within a word."]
     }
   ]
 }
