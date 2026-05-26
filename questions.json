@@ -1506,8 +1506,8 @@
       "word": "thaumaturgy",
       "definition": "Miracle-working or the performance of wonders.",
       "example": "The biography cannot decide whether to defend the saint's thaumaturgy.",
-      "wordDecoys": ["theurgy", "thaumatology", "thaumatrope"],
-      "definitionDecoys": ["Ritual practice intended to invoke divine action.", "The study or discourse of wonders.", "A toy that creates an optical illusion by spinning."]
+      "wordDecoys": ["theurgy", "teratology", "thaumatrope"],
+      "definitionDecoys": ["Ritual practice intended to invoke divine action.", "The study of monsters or developmental malformations.", "A toy that creates an optical illusion by spinning."]
     },
     {
       "word": "catabasis",
