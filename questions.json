@@ -838,11 +838,11 @@
       "definitionDecoys": ["About to happen very soon.", "Prominent, distinguished, or high in rank.", "Existing beyond ordinary limits or experience."]
     },
     {
-      "word": "immiscible",
-      "definition": "Incapable of being mixed into a homogeneous substance.",
-      "example": "The two oils remained immiscible despite vigorous shaking.",
-      "wordDecoys": ["miscible", "indivisible", "immeshed"],
-      "definitionDecoys": ["Capable of being mixed.", "Unable to be divided.", "Caught or entangled in a mesh."]
+      "word": "impetrate",
+      "definition": "To obtain by entreaty, petition, or prayer.",
+      "example": "The envoys hoped to impetrate a pardon before the sentence was carried out.",
+      "wordDecoys": ["imprecate", "perpetrate", "penetrate"],
+      "definitionDecoys": ["To invoke evil upon someone.", "To commit or carry out, especially something harmful.", "To pierce, enter, or make a way into something."]
     },
     {
       "word": "incunabulum",
@@ -850,13 +850,6 @@
       "example": "The library kept the incunabulum in a climate-controlled case.",
       "wordDecoys": ["incubus", "ciborium", "cuniculate"],
       "definitionDecoys": ["A nightmare spirit or oppressive burden.", "A covered vessel or canopy in church use.", "Pierced with tunnels or burrows."]
-    },
-    {
-      "word": "inveterate",
-      "definition": "Long-established, deep-rooted, and habitual.",
-      "example": "An inveterate reviser, she distrusted every first sentence.",
-      "wordDecoys": ["invertebrate", "invigorate", "invidious"],
-      "definitionDecoys": ["An animal lacking a backbone.", "To give strength or energy.", "Likely to arouse resentment or imply unfair comparison."]
     },
     {
       "word": "jejune",
@@ -1090,11 +1083,11 @@
       "definitionDecoys": ["Glowing with a reddish or golden light.", "Deep, full, or evocative in sound.", "Mournful or sorrowful."]
     },
     {
-      "word": "revenant",
-      "definition": "One who returns, especially as a ghost or after long absence.",
-      "example": "The disgraced adviser reappeared as a revenant of the old regime.",
-      "wordDecoys": ["relevant", "revanchist", "remnant"],
-      "definitionDecoys": ["Closely connected to the matter at hand.", "Seeking revenge or recovery of lost territory.", "A leftover piece or surviving trace."]
+      "word": "redivivus",
+      "definition": "Revived, brought back to life, or appearing again after disappearance.",
+      "example": "The critic dismissed the movement as scholasticism redivivus.",
+      "wordDecoys": ["recidivist", "redintegrate", "redoubtable"],
+      "definitionDecoys": ["A person who relapses into crime or an earlier bad habit.", "To restore to wholeness or renew after disintegration.", "Formidable, imposing, or deserving respect."]
     },
     {
       "word": "rhizomatic",
@@ -1125,13 +1118,6 @@
       "definitionDecoys": ["Brilliant technical display.", "Disdainful or contemptuous in manner.", "A sudden strong accent in music."]
     },
     {
-      "word": "stochastic",
-      "definition": "Involving chance or probability; randomly determined.",
-      "example": "The model treats each mutation as a stochastic event.",
-      "wordDecoys": ["stoichiometric", "stichic", "stochasticism"],
-      "definitionDecoys": ["Pertaining to exact chemical proportions.", "Composed in lines of the same meter.", "A doctrine that all events are random rather than probabilistic."]
-    },
-    {
       "word": "supererogatory",
       "definition": "Beyond what duty or obligation requires.",
       "example": "The apology was required; the handwritten notes were supererogatory.",
@@ -1139,11 +1125,11 @@
       "definitionDecoys": ["Disparaging, belittling, or expressing a low opinion.", "A special right, privilege, or power.", "Additional to the normal number or staff."]
     },
     {
-      "word": "synecdoche",
-      "definition": "A figure of speech in which a part stands for the whole, or the reverse.",
-      "example": "Calling workers 'hands' is synecdoche, not merely slang.",
-      "wordDecoys": ["metonymy", "syncope", "syncretism"],
-      "definitionDecoys": ["Substitution of an associated term for the thing meant.", "Omission of sounds from the middle of a word.", "Blending of different beliefs or practices."]
+      "word": "syllepsis",
+      "definition": "A construction in which one word governs two others in different ways.",
+      "example": "Her sentence used syllepsis to make the verb fit both a suitcase and a grudge.",
+      "wordDecoys": ["synizesis", "syllogism", "synaeresis"],
+      "definitionDecoys": ["Contraction of adjacent vowels into one syllable.", "A deductive argument with two premises and a conclusion.", "Contraction of two vowels within a word into one syllable."]
     },
     {
       "word": "syncretic",
@@ -1153,11 +1139,11 @@
       "definitionDecoys": ["Presenting a general view or seen together.", "Rhythmically displaced or accented off the beat.", "Sloping downward from opposite sides toward a fold axis."]
     },
     {
-      "word": "telos",
-      "definition": "An end, purpose, or ultimate aim.",
-      "example": "The argument assumes a telos for education beyond employability.",
-      "wordDecoys": ["logos", "topos", "tholos"],
-      "definitionDecoys": ["Reason, word, discourse, or rational principle.", "A conventional theme or rhetorical commonplace.", "A round classical building, tomb, or vaulted structure."]
+      "word": "entelechy",
+      "definition": "The realized end or inner principle that brings a thing to fulfillment.",
+      "example": "For Aristotle, the oak is already present as the acorn's entelechy.",
+      "wordDecoys": ["teleology", "endoxa", "eudaimonia"],
+      "definitionDecoys": ["Explanation by final causes or purposes.", "Reputable opinions accepted by the many or the wise.", "Human flourishing or the highest good of a life."]
     },
     {
       "word": "theodicy",
